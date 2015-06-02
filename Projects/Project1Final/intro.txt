@@ -1,0 +1,29 @@
+***********************************************
+*           WELCOME TO BATTLESHIP!	      *
+* 				              *
+*	- You have 5 ships to place:	      *
+*					      *
+*  	- 5 units ship: 55555		      *
+*       - 4 units ship: 4444 	              *
+* 	- 3 units ship: 333 	              *
+*	- 2 unit ships: 22		      * 
+*					      *
+* ------------------------------------------- *
+* 				              *
+* The object of the game is to choose sink    *
+* the opponents ships by guessing coordinates * 
+* on the game board in which you believe your *
+* opponents ships to be. First player to sink *
+* all of the other players' ships wins.       *	
+*					      *
+* ------------------------------------------- *
+* 					      *
+* Please use the A1A5 format to choose        *
+* which point to attack.		      *
+***********************************************
+
+
+
+
+
+
